@@ -1,7 +1,6 @@
 package ar.empanada.learning.designpatterns.ajedrez.geography;
 
 import ar.empanada.learning.designpatterns.ajedrez.Pieza;
-import ar.empanada.learning.designpatterns.ajedrez.UtilsGeography;
 
 public class Position {
     private int x;

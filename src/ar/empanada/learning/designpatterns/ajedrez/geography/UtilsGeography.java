@@ -1,4 +1,4 @@
-package ar.empanada.learning.designpatterns.ajedrez;
+package ar.empanada.learning.designpatterns.ajedrez.geography;
 
 import ar.empanada.learning.designpatterns.ajedrez.geography.Position;
 
