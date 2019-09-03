@@ -6,7 +6,7 @@ public class Recruiter {
     public void entrevistarCandidatoFacha(){
 
         CandidatoInterface candidatoInterface = new Candidato();
-        candidatoInterface.cookingPiola(); //You need this method but your interface is of differnte type;
+        candidatoInterface.cocinar(); //You need this method but your interface is of differnte type;
 
         adapterCandidatoACandidatoPiola = new CandidatoMakeUpAdapter(new Candidato());
         adapterCandidatoACandidatoPiola.adapterCocinar(); //cooking piola
