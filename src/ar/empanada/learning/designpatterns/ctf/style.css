@@ -1,0 +1,29 @@
+.lvlone{
+    color: limegreen;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.makealign{
+    text-align: justify;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.txtpre{
+    color:limegreen;
+}
+
+.lvlfour{
+    margin-top: 50px;
+    text-align: center;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.imahe{
+    opacity: 0.3;
+    height: 20%;
+    width: 20%;
+}

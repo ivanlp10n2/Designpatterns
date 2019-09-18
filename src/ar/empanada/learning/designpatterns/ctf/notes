@@ -1,0 +1,33 @@
+http://pi.pardot.com/analytics?
+
+
+ver=3
+&visitor_id=525380407
+&pi_opt_in=
+&campaign_id=32744
+&account_id=13882
+&title=Infosec%20Institute%20n00bs%20CTF%20Labs
+&url=http%3A%2F%2Fctf.infosecinstitute.com%2Flevelone.php
+&referrer=
+
+
+
+http://www2.infosecinstitute.com/analytics?
+
+conly=true
+&visitor_id=525380407
+&pi_opt_in=
+&campaign_id=32744
+&account_id=13882
+&title=Infosec%20Institute%20n00bs%20CTF%20Labs
+&url=http%3A%2F%2Fctf.infosecinstitute.com%2Flevelone.php
+&referrer=
+&visitor_id_sign=0c6b665d50e04d08b76412276b35bdf621c4e189f668d78c8bd3313146032fb6e9a3b3718d61ac734e3efbd690ceaefd4b695165
+
+
+
+version = affects response
+account_id = es el posta
+
+visitor_id = no afecta elr esponse
+pi_opt_in = no afecta el response
